@@ -1,0 +1,12 @@
+﻿{
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "inputFile": "C:\\Sameer\\Personal\\Rabiya\\BradlyPlc.Test\\Test\\TestData\\Input\\GenerationReport.xml",
+  "outputFile": "C:\\Sameer\\Personal\\Rabiya\\BradlyPlc.Test\\Test\\TestData\\Output\\GenerationOutput_CorrectValues.xml",
+  "referenceFile": "C:\\Sameer\\Personal\\Rabiya\\BradlyPlc.Test\\Test\\TestData\\ReferenceData\\ReferenceData.xml"
+}
+ 
